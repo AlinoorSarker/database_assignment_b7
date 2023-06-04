@@ -8,19 +8,12 @@ Assigned
 
 a)
 First Name: Babara
-
 Last Name: MacCaffrey
-
 Date of Birth: 1986-03-28
-
 Phone: 781-932-9754
-
 Address: 0 Sage Terrace
-
 City: Waltham
-
 State: MA
-
 Points: 2273
 
 b)
