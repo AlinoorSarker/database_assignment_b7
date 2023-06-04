@@ -5,14 +5,22 @@ Assigned
 1. Create a database named database_assignment.
 2. create a table named customers.
 3. insert the following customer data:
+
 a)
 First Name: Babara
+
 Last Name: MacCaffrey
+
 Date of Birth: 1986-03-28
+
 Phone: 781-932-9754
+
 Address: 0 Sage Terrace
+
 City: Waltham
+
 State: MA
+
 Points: 2273
 
 b)
